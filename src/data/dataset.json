@@ -1,0 +1,179 @@
+{
+  "dataset_name": "Smart Việt Phục - dữ liệu trang phục gốc",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "male_ngu_than_tay_chen_nguyen",
+      "gender": "male",
+      "name": "Áo Ngũ Thân Tay Chẽn",
+      "category": "Áo ngũ thân",
+      "period_region": "Nam - thời Nguyễn",
+      "source": "Nam.pdf, trang 1",
+      "images": [
+        "images/nam_01_ao_ngu_than_tay_chen.jpg"
+      ],
+      "origin": "Năm 1744, Chúa Nguyễn Phúc Khoát ban hành quy định về trang phục, yêu cầu quan lại và nhân dân Đàng Trong đổi từ áo giao lĩnh sang áo ngũ thân gài khuy. Sang thế kỷ XIX, dưới triều Nguyễn, đặc biệt thời Minh Mạng, kiểu dáng áo ngũ thân được quy chuẩn hóa và phổ biến rộng rãi.",
+      "features": "Tài liệu nguồn xác định đây là áo ngũ thân tay chẽn nam; phần mô tả trong nguồn tập trung vào lịch sử hình thành và quá trình chuẩn hóa, không trình bày thêm đặc điểm cấu tạo chi tiết.",
+      "meaning_context": "Tài liệu nguồn cho biết áo ngũ thân trở thành quốc phục và thường phục phổ biến dưới thời Nguyễn; không nêu riêng các bối cảnh sử dụng hiện đại.",
+      "web_tags": [
+        "nam",
+        "áo ngũ thân",
+        "thời Nguyễn"
+      ]
+    },
+    {
+      "id": "male_ao_tac_nguyen",
+      "gender": "male",
+      "name": "Áo Tấc Nam",
+      "category": "Áo ngũ thân tay thụng",
+      "period_region": "Nam - thời Nguyễn",
+      "source": "Nam.pdf, trang 2",
+      "images": [
+        "images/nam_02_ao_tac_nam.jpg"
+      ],
+      "origin": "Năm 1744, Chúa Nguyễn Phúc Khoát ban hành sắc lệnh quy định lại trang phục ở Đàng Trong. Từ nền tảng áo giao lĩnh, kiểu áo ngũ thân gồm 5 vạt được hình thành và tiếp tục hoàn thiện dưới triều Nguyễn (1802-1945).",
+      "features": "Trong hệ thống ngũ thân thời Nguyễn, áo tấc là dạng áo tay thụng; nguồn đối chiếu với áo tay chẽn và xác định áo tấc mang tính lễ phục trang trọng.",
+      "meaning_context": "Phù hợp nhóm lễ phục/trang phục trang trọng theo mô tả của tài liệu nguồn.",
+      "web_tags": [
+        "nam",
+        "áo tấc",
+        "áo ngũ thân",
+        "lễ phục",
+        "thời Nguyễn"
+      ]
+    },
+    {
+      "id": "male_ao_the_bac_bo",
+      "gender": "male",
+      "name": "Áo The / Áo Ngũ Thân Dân Gian Phủ Sa Đen",
+      "category": "Áo ngũ thân dân gian",
+      "period_region": "Nam giới Bắc Bộ / Liền anh Quan họ",
+      "source": "Nam.pdf, trang 3",
+      "images": [
+        "images/nam_03_ao_the_ngu_than_phu_sa_den.jpg"
+      ],
+      "origin": "Áo ngũ thân xuất hiện từ cuộc cải cách trang phục của Chúa Nguyễn Phúc Khoát năm 1744 ở Đàng Trong, sau đó lan rộng ra cả nước và được triều Nguyễn chuẩn hóa.",
+      "features": "Khi phổ biến ở miền Bắc, kiểu dáng ngũ thân được dân gian hóa và kết hợp với vải the mỏng, màu sậm như phủ sa đen hoặc nâu gụ.",
+      "meaning_context": "Được dùng như trang phục lịch sự cho nam giới trong các dịp lễ hội, Tết hoặc sinh hoạt văn hóa như hát Quan họ.",
+      "web_tags": [
+        "nam",
+        "Bắc Bộ",
+        "Quan họ",
+        "lễ hội",
+        "Tết",
+        "áo the"
+      ]
+    },
+    {
+      "id": "female_ao_tac",
+      "gender": "female",
+      "name": "Áo Tấc Nữ",
+      "category": "Áo ngũ thân tay thụng",
+      "period_region": "Nữ - cổ phục Việt Nam, phát triển mạnh dưới triều Nguyễn",
+      "source": "Việt Phục Nữ VN (1).docx, trang 1-3",
+      "images": [
+        "images/nu_01_ao_tac_01.jpg",
+        "images/nu_01_ao_tac_02.jpg",
+        "images/nu_01_ao_tac_03.jpg",
+        "images/nu_01_ao_tac_04.jpg",
+        "images/nu_01_ao_tac_05.jpg",
+        "images/nu_01_ao_tac_06.jpg"
+      ],
+      "image": "/assets/images/nu-bo-01/ao_tac_mau_trang.png",
+      "representativeColor": "cream",
+      "colors": [
+        { "key": "cream", "name": "Kem", "hex": "#f9f6f0", "image": "/assets/images/nu-bo-01/ao_tac_mau_trang.png" },
+        { "key": "red", "name": "Đỏ", "hex": "#dc2626", "image": "/assets/images/nu-bo-01/ao_tac_mau_do.png" },
+        { "key": "blue", "name": "Xanh dương", "hex": "#2563eb", "image": "/assets/images/nu-bo-01/ao_tac_mau_xanh_duong.png" },
+        { "key": "yellow", "name": "Vàng", "hex": "#eab308", "image": "/assets/images/nu-bo-01/ao_tac_mau_vang.png" },
+        { "key": "green", "name": "Xanh lá", "hex": "#16a34a", "image": "/assets/images/nu-bo-01/ao_tac_mau_xanh_la.png" }
+      ],
+      "origin": "Áo tấc nữ, còn gọi là áo ngũ thân tay thụng hoặc áo thụng, thuộc hệ thống áo ngũ thân. Áo ngũ thân phát triển mạnh ở Đàng Trong vào thế kỷ XVIII, gắn với cải cách trang phục thời Chúa Nguyễn Phúc Khoát khoảng năm 1744, sau đó tiếp tục được hoàn thiện và sử dụng rộng rãi dưới triều Nguyễn (1802-1945).",
+      "features": "Cổ đứng; cấu trúc ngũ thân; tay áo rất rộng và dài; thân áo dài qua đầu gối hoặc gần mắt cá; có thể mặc cùng quần dài; màu sắc đa dạng. Tài liệu ghi nhận bộ màu trắng mang vẻ thanh nhã, trang trọng.",
+      "meaning_context": "Thể hiện sự trang nghiêm, lễ phép và tôn trọng nghi lễ. Ngày nay xuất hiện trong lễ cưới truyền thống, lễ ăn hỏi, Tết, nghi lễ văn hóa, chụp ảnh cổ phục và hoạt động quảng bá văn hóa Việt Nam.",
+      "web_tags": [
+        "nữ",
+        "áo tấc",
+        "áo ngũ thân",
+        "lễ nghi",
+        "cưới hỏi",
+        "Tết",
+        "chụp ảnh"
+      ]
+    },
+    {
+      "id": "female_ngu_than_tay_chen",
+      "gender": "female",
+      "name": "Áo Ngũ Thân Tay Chẽn Nữ",
+      "category": "Áo ngũ thân",
+      "period_region": "Nữ - Đàng Trong / Thuận Hóa - Phú Xuân, triều Nguyễn",
+      "source": "Việt Phục Nữ VN (1).docx, trang 4-6",
+      "images": [
+        "images/nu_02_ao_ngu_than_tay_chen_01.jpg",
+        "images/nu_02_ao_ngu_than_tay_chen_02.jpg",
+        "images/nu_02_ao_ngu_than_tay_chen_03.jpg",
+        "images/nu_02_ao_ngu_than_tay_chen_04.jpg",
+        "images/nu_02_ao_ngu_than_tay_chen_05.jpg",
+        "images/nu_02_ao_ngu_than_tay_chen_06.jpg"
+      ],
+      "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_vang.png",
+      "representativeColor": "yellow",
+      "colors": [
+        { "key": "yellow", "name": "Vàng", "hex": "#eab308", "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_vang.png" },
+        { "key": "green", "name": "Xanh lá", "hex": "#16a34a", "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_xanh_la.png" },
+        { "key": "red", "name": "Đỏ", "hex": "#dc2626", "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_do.png" },
+        { "key": "blue", "name": "Xanh dương", "hex": "#2563eb", "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_xanh_duong.png" },
+        { "key": "cream", "name": "Trắng/kem", "hex": "#f9f6f0", "image": "/assets/images/nu-bo-03/ao_ngu_than_mau_kem.png" }
+      ],
+      "origin": "Áo ngũ thân gắn với quá trình hình thành và phát triển văn hóa Đàng Trong, đặc biệt Thuận Hóa - Phú Xuân. Tài liệu nêu các nghiên cứu cho rằng áo có tiền thân từ cuối thế kỷ XVI - đầu XVII; năm 1744 dưới Chúa Nguyễn Phúc Khoát, áo ngũ thân được định chế làm thường phục. Dưới triều Nguyễn, kiểu áo tiếp tục hoàn thiện và sử dụng rộng rãi.",
+      "features": "Cổ đứng, cao và kín; cấu trúc năm thân; tay áo hẹp, ôm theo cánh tay và thu nhỏ dần về cổ tay; thân áo dài qua đầu gối; cài khuy phía bên phải; thân áo tương đối rộng; thường mặc cùng quần dài và có thể kết hợp khăn vấn hoặc phụ kiện truyền thống.",
+      "meaning_context": "Thể hiện vẻ kín đáo, nền nã và nền nếp. Ngày nay được phục dựng trong Tết, chụp ảnh cổ phục, chương trình văn hóa - nghệ thuật, sự kiện quảng bá văn hóa, lễ cưới/lễ hỏi và hoạt động tìm hiểu trang phục lịch sử.",
+      "web_tags": [
+        "nữ",
+        "áo ngũ thân",
+        "tay chẽn",
+        "Tết",
+        "văn hóa",
+        "cưới hỏi",
+        "chụp ảnh"
+      ]
+    },
+    {
+      "id": "female_ao_tu_than",
+      "gender": "female",
+      "name": "Áo Tứ Thân",
+      "category": "Áo tứ thân",
+      "period_region": "Phụ nữ Bắc Bộ / Kinh Bắc",
+      "source": "Việt Phục Nữ VN (1).docx, trang 7-9",
+      "images": [
+        "images/nu_03_ao_tu_than_01.jpg",
+        "images/nu_03_ao_tu_than_02.jpg",
+        "images/nu_03_ao_tu_than_03.jpg",
+        "images/nu_03_ao_tu_than_04.jpg",
+        "images/nu_03_ao_tu_than_05.jpg",
+        "images/nu_03_ao_tu_than_06.jpg"
+      ],
+      "image": "/assets/images/nu-bo-02/ao_tu_than_mau_vang.png",
+      "representativeColor": "yellow",
+      "colors": [
+        { "key": "yellow", "name": "Vàng", "hex": "#eab308", "image": "/assets/images/nu-bo-02/ao_tu_than_mau_vang.png" },
+        { "key": "green", "name": "Xanh lá", "hex": "#16a34a", "image": "/assets/images/nu-bo-02/ao_tu_than_mau_xanh_la.png" },
+        { "key": "purple", "name": "Tím", "hex": "#a855f7", "image": "/assets/images/nu-bo-02/ao_tu_than_mau_tim.png" },
+        { "key": "blue", "name": "Xanh dương", "hex": "#2563eb", "image": "/assets/images/nu-bo-02/ao_tu_than_mau_xanh_duong.png" },
+        { "key": "red", "name": "Đỏ", "hex": "#dc2626", "image": "/assets/images/nu-bo-02/ao_tu_than_mau_do.png" }
+      ],
+      "origin": "Áo tứ thân có nguồn gốc từ miền Bắc Việt Nam, đặc biệt gắn với đồng bằng Bắc Bộ và vùng Kinh Bắc. Tài liệu lưu ý thời điểm xuất hiện đầu tiên chưa được xác định hoàn toàn thống nhất, nhưng đây là kiểu trang phục tồn tại lâu đời trong đời sống dân gian.",
+      "features": "Tên gọi 'tứ thân' đến từ cấu tạo bốn tà/thân áo. Thông thường mặc cùng yếm, váy và thắt lưng/dải lụa. Trong văn hóa Quan họ, hình ảnh liền chị thường gắn với áo tứ thân, yếm, váy, khăn mỏ quạ và nón quai thao.",
+      "meaning_context": "Gắn với vẻ đẹp duyên dáng, kín đáo và nền nã của phụ nữ Bắc Bộ. Ngày nay thường xuất hiện trong lễ hội truyền thống, biểu diễn Quan họ, văn nghệ dân gian, lễ hội làng, quảng bá văn hóa và chụp ảnh truyền thống.",
+      "web_tags": [
+        "nữ",
+        "áo tứ thân",
+        "Bắc Bộ",
+        "Kinh Bắc",
+        "Quan họ",
+        "lễ hội",
+        "chụp ảnh"
+      ]
+    }
+  ]
+}
